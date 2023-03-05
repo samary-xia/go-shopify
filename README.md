@@ -20,13 +20,13 @@ This library has been tested against the following versions of Go
 ## Install
 
 ```console
-$ go get github.com/bold-commerce/go-shopify
+$ go get github.com/samary-xia/go-shopify
 ```
 
 ## Use
 
 ```go
-import "github.com/bold-commerce/go-shopify"
+import "github.com/samary-xia/go-shopify"
 ```
 
 This gives you access to the `goshopify` package.
