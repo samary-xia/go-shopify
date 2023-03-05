@@ -1,4 +1,4 @@
-module github.com/samary-xia/go-shopfiy
+module github.com/samary-xia/go-shopify
 
 go 1.20
 
